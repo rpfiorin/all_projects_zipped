@@ -1,3 +1,3 @@
 # Personal projects
 
--- Download some .zip to access the code.
+-- Browse through the branches to download some .zip and access a source code.
