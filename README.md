@@ -1,1 +1,1 @@
-Projetos voltados à plataforma Web
+Projects for Web platform.
