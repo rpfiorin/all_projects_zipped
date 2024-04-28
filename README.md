@@ -1,1 +1,1 @@
-Projetos voltados às plataformas Windows e Android
+Projects for Windows and Android platforms.
